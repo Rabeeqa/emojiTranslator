@@ -1,5 +1,5 @@
 1. The directory name where you are keeping emojiTranslator.cpp, emojiTranslator.hpp, main.py, and setup.py files must be 'emojiTranslator_pythonBinding'.
-2. First run the setup.py file by using 'pip install -e .' command. This command installs a Python package.
+2. First run the setup.py file by using 'pip install -e .' command. This command installs a Python package and creates a link between the source code and the installed package.
 3. If you want a very emphasize output you can add -vvv flag at the end of the command like 'pip install -e . -vvv'
    Break down of this command:
       pip :  To invoke the pip package manager for installing Python packages
